@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 👋 My name is Jonny Cui
+- 💻 A self-claimed Full-stack Developer
+- 👀 I’m interested in anything inovative and fun 
+- 🤝 Welcome to connect with me 🤩
+- 💬 How to reach me:  📧jyc1129@live.com 
+-      connect me on 👉linkedin: linkedin.com/in/jonny-cui
+
 <!--
 **JonnyCui/JonnyCui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
